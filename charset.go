@@ -1,4 +1,5 @@
 // charset project charset.go
+// Author: Cof-Lee
 package charset
 
 import (
