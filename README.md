@@ -1,2 +1,2 @@
 # charset
-charset
+charset package for Golang
